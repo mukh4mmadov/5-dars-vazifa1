@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { FaTrash } from "react-icons/fa"; // Ikonani import qilish
+import { FaTrash } from "react-icons/fa"; 
 
 function App() {
   const [task, setTask] = useState("");
